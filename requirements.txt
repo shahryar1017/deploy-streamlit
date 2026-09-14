@@ -1,0 +1,8 @@
+streamlit
+langchain-core
+langchain-community
+langchain-openai
+langchain-text-splitters
+pypdf
+psycopg2-binary
+pgvector
